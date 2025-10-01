@@ -1,22 +1,3 @@
-# [YOUR_NAME]_binance_bot (complete submission)
-
-## Project structure (required by assignment)
-[project_root]/
-│
-├── src/
-│   ├── common.py           # client creation, validation, logging
-│   ├── market_orders.py   # market order CLI
-│   ├── limit_orders.py    # limit order CLI
-│   └── advanced/
-│       ├── oco.py
-│       ├── stop_limit.py
-│       ├── twap.py
-│       └── grid.py
-├── bot.log                # structured log file (sample)
-├── report.pdf             # assignment report with explanations & screenshots
-├── README.md
-├── requirements.txt
-└── .env.template
 
 ## Setup
 1. Copy `.env.template` to `.env` and add your **Testnet** API credentials.
